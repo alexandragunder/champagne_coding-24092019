@@ -1,138 +1,130 @@
-,Name,Date,Review_Score,Review_Text
-1,Nick Sayeg,"June 11, 2019",2,"the interface and functionality is extremely basic and limited compared to your Swedish mobile bank app. when will you upgrade the Norwegian app to match? edit: thanks Morten for the reply, good to know it will improve eventually! when it does ill update my review."
-2,Robin Thorholm,"December 17, 2018",1,"Ekstremely slow app, can never trust that the bills you pay through the app is actually paid (or confirmed). After a payment has failed there is nothing that tells you that something went wrong."
-3,Adam Price,"April 20, 2019",3,"Goodd enough app, smooth with adequate features and GUI. Would love a widget or two."
-4,Lujza Stepanoski,"June 10, 2019",1,Many many times I can not log in .This is so boring.
-5,Himansu Prusty,"December 14, 2018",5,Light & powerful 🙂
-6,Eirik Aasved Holst,"April 11, 2019",1,"50/50 om man klarer å logge inn. Ved mislykket innlogging får man opp tall-tastatur for å skrive inn brukernavn, så løsningen er å kjøre en hard restart av appen."
-7,Andrée Pettersson,"April 5, 2019",1,Det går ikke å skrive inn sin bruker ID da det kun er nummer-tastatur.
-8,André Rovik,"March 5, 2019",4,Fungerer ikke på Android Pie
-9,yes,"April 14, 2019",1,klarer ikke å logge inn
-10,Richard Beunk,"September 9, 2019",1,Funker 2/10 ganger
-11,Cansu Öngel,"May 31, 2019",5,great!
-12,Søren Madsen,"February 14, 2019",1,"Nordea i Norge tømte min konto 100%. Ja. Du læste rigtigt. Denne bank han ageret således at de tog alle mine penge. Efter lang kamp erkendte banken på skrift, at de havde begået en fejl og ville refundere hele beløbet. De refunderede dog kun halvdelen af beløbet. Jeg anmodede om resten. Banken skrev...Full Review"
-13,Kurder 2018,"January 4, 2019",1,lær fra Sbanken
-14,Nico,"November 24, 2018",1,"Fungerer ikke lenger på Huawei Mate 20 pro, Android 9"
-15,Andreas Langås,"November 22, 2018",1,Sluttet å fungere på Pie etter siste oppdatering
-16,Steffen - André Sleire,"November 22, 2018",1,Sluttet å fungere etter siste oppdatering 😐
-17,Roar Stene,"October 8, 2018",4,"Denne er til de som klager på at de ikke får logget seg inn. Brukernavnet er fødselsnummeret ditt, derfor kan man ikke bruke bokstaver til å logge seg inn. Skriv inn fødselsnummer og bruk BankID for å logge deg inn, på Light Login får man valget til å bruke et ""brukernavn"" med et enkelt passord, ett...Full Review"
-18,Fritz Moen,"October 3, 2018",1,"Appen er full av bugs, lar meg ikke engang få ett tekst keyboard når jeg skal skrive inn brukernavn ... hva faen lissom ? Elendig"
-19,Thomas Sandsør,"September 6, 2018",1,Kan ikke engang se oversikten over bsu konto engang. Ganske begrenset nettbank for en som kom fra sbanken
-20,Håvard Hansen,"September 5, 2018",2,"Kunne vært en ide å sett til Sbanken for hvordan en bankapp skal gjennomføres... Umåtelig begrenset, og med en nettside som overhodet ikke er optimalisert for mobilbruk."
-21,Lars Martinsen,"September 4, 2018",1,"Ganske dårlig app med bugs. Må logge inn med bankid hver gang fordi fingeravtrykk ikke funger. Har nå innstallert appen for tredje gang, og endelig ser ut til at innlogging med fingeravtrykk fungerer. Edit: fingeravtrykk innlogging fungerte noen timer, deretter har jeg måttet logge inn med bankid ig...Full Review"
-22,Sverre Drabløs,"June 21, 2018",1,"Håpløst innlogging med bankid på mobil. Hopper tilbake til innlogging om og 
+,Date,Review_Score,Review_Text
+1,"June 11, 2019",2,"the interface and functionality is extremely basic and limited compared to your swedish mobile bank app. when will you upgrade the norwegian app to match? edit: thanks morten for the reply, good to know it will improve eventually! when it does ill update my review."
+2,"December 17, 2018",1,"ekstremely slow app, can never trust that the bills you pay through the app is actually paid (or confirmed). after a payment has failed there is nothing that tells you that something went wrong."
+3,"April 20, 2019",3,"goodd enough app, smooth with adequate features and gui. would love a widget or two."
+4,"June 10, 2019",1,many many times i can not log in .this is so boring.
+5,"December 14, 2018",5,light & powerful 🙂
+6,"April 11, 2019",1,"50/50 om man klarer å logge inn. ved mislykket innlogging får man opp tall-tastatur for å skrive inn brukernavn, så løsningen er å kjøre en hard restart av appen."
+7,"April 5, 2019",1,det går ikke å skrive inn sin bruker id da det kun er nummer-tastatur.
+8,"March 5, 2019",4,fungerer ikke på android pie
+9,"April 14, 2019",1,klarer ikke å logge inn
+10,"September 9, 2019",1,funker 2/10 ganger
+11,"May 31, 2019",5,great!
+12,"February 14, 2019",1,"nordea i norge tømte min konto 100%. ja. du læste rigtigt. denne bank han ageret således at de tog alle mine penge. efter lang kamp erkendte banken på skrift, at de havde begået en fejl og ville refundere hele beløbet. de refunderede dog kun halvdelen af beløbet. jeg anmodede om resten. banken skrev...full review"
+13,"January 4, 2019",1,lær fra sbanken
+14,"November 24, 2018",1,"fungerer ikke lenger på huawei mate 20 pro, android 9"
+15,"November 22, 2018",1,sluttet å fungere på pie etter siste oppdatering
+16,"November 22, 2018",1,sluttet å fungere etter siste oppdatering 😐
+17,"October 8, 2018",4,"denne er til de som klager på at de ikke får logget seg inn. brukernavnet er fødselsnummeret ditt, derfor kan man ikke bruke bokstaver til å logge seg inn. skriv inn fødselsnummer og bruk bankid for å logge deg inn, på light login får man valget til å bruke et ""brukernavn"" med et enkelt passord, ett...full review"
+18,"October 3, 2018",1,"appen er full av bugs, lar meg ikke engang få ett tekst keyboard når jeg skal skrive inn brukernavn ... hva faen lissom ? elendig"
+19,"September 6, 2018",1,kan ikke engang se oversikten over bsu konto engang. ganske begrenset nettbank for en som kom fra sbanken
+20,"September 5, 2018",2,"kunne vært en ide å sett til sbanken for hvordan en bankapp skal gjennomføres... umåtelig begrenset, og med en nettside som overhodet ikke er optimalisert for mobilbruk."
+21,"September 4, 2018",1,"ganske dårlig app med bugs. må logge inn med bankid hver gang fordi fingeravtrykk ikke funger. har nå innstallert appen for tredje gang, og endelig ser ut til at innlogging med fingeravtrykk fungerer. edit: fingeravtrykk innlogging fungerte noen timer, deretter har jeg måttet logge inn med bankid ig...full review"
+22,"June 21, 2018",1,"håpløst innlogging med bankid på mobil. hopper tilbake til innlogging om og 
 om igjen.."
-23,Sharon Ruth Hardy,"July 5, 2018",1,Keep getting stuck - no cancel button
-24,Peter J.,"August 8, 2018",2,"Bugs I hopetall. Men tror det er baksystemer og ikke app som er årsaken. 
-Kan ofte ikke se siste transaksjoner, ofte ikke overføre, og selv om penger 
-er disponibelt er de ikke tilgjengelige før etter en time for aksjer. Og 
-endrer du mobilnummer, slutter BankID å virke for enkelte ting til man 
-sen...Full Review"
-25,Sandor Ruben Czegledi,"August 8, 2018",1,BankID på mobil fungerer ikke.
-26,Margaret Colton,"July 6, 2018",1,Won't open
-27,Motoko Mori,"August 14, 2018",1,Dritt app
-28,Pablo Wr.,"May 26, 2018",2,"I don't like the new look of the app. Information about ATM cards should be 
+23,"July 5, 2018",1,keep getting stuck - no cancel button
+24,"August 8, 2018",2,"bugs i hopetall. men tror det er baksystemer og ikke app som er årsaken. 
+kan ofte ikke se siste transaksjoner, ofte ikke overføre, og selv om penger 
+er disponibelt er de ikke tilgjengelige før etter en time for aksjer. og 
+endrer du mobilnummer, slutter bankid å virke for enkelte ting til man 
+sen...full review"
+25,"August 8, 2018",1,bankid på mobil fungerer ikke.
+26,"July 6, 2018",1,won't open
+27,"August 14, 2018",1,dritt app
+28,"May 26, 2018",2,"i don't like the new look of the app. information about atm cards should be 
 displayed somewhere else..."
-29,Leif Kaarstad,"May 17, 2018",5,Utrolig bra. Enkel og rask tilgang til alle viktige dagligbank-tjenester
-30,Lars Antonsen,"May 4, 2018",1,"Dårligste jeg har vært borti. Krever minst 10 forsøk på innlogging før jeg 
+29,"May 17, 2018",5,utrolig bra. enkel og rask tilgang til alle viktige dagligbank-tjenester
+30,"May 4, 2018",1,"dårligste jeg har vært borti. krever minst 10 forsøk på innlogging før jeg 
 får tilgang til pengene mine."
-31,Sveinung Haaland,"April 30, 2018",1,"Vanskelig å gi en bank noe bra score når de ikke klarer å levere en 
-mobilbank for bedrift. Den eksisterende løsningen for bedrift har vært ute 
-av drift I FLERE ÅR."
-32,A Google user,"April 27, 2018",4,Huslån kommer ikke inn i forfallslisten. Ellers helt super.
-33,Maria Navas Calad,"August 21, 2017",4,I think the app is quite good enough for typical standard banking movements. The only pain is that it does not have a light-fast mode for paying as i require to use BankID. But overall it is pretty good and easy.
-34,Moiz Hasnain,"June 22, 2017",1,In old version i could see incoming and outgoing transactions in different colours but in this version there's no difference. Very complicated and boring interface.
-35,iraqi boy,"October 24, 2017",3,"Med den nye nougat 7 oppdaterigen så har jeg problemer med å logge inn med BankID på Mobil. På den random ord generator skjermen, men en gang jeg trykker ok etter å taste pinkoden så går det tilbake til login skjermen igjen"
-36,Tobias Berg,"September 25, 2017",1,"Elendig, fungerer ikke på Samsung s8 i det hele tatt. Etter bankID på mobil steget forsvinner bilde/formen som skulle tatt deg til saldo-visning, og appen blir stående på innloggingsskjermen. FIKS DET!!!"
-37,Lars Joakim Jørstad,"October 2, 2017",1,Når jeg prøver å logge inn med personnummer og telefonnummer står det at noe gikk galt og at jeg må sjekke om jeg har tastet riktig. Denne feilen har eksistert i over et år for meg
-38,John Borgen,"December 10, 2017",1,At en internasjonal bank som nordea ikke klarer å holde brukernes konto oppe å gå er flaut.  Ikke får man opp konto info i appen. Ikke kan man betale med kortene deres.  Det er alt for ofte nede tid som ikke kundene blir advart om.   Flaks man har kjente med annen bank når man er ute å spiser middag...Full Review
-39,Lars Werner,"July 3, 2017",3,"Få tilbake norsk flagg på appen, den er helt lik den svenske. Helt umulig å se forskjell på ikonet!"
-40,Rafiullah Rahimi,"December 3, 2017",5,I think that it is good app because Custommers can check their money online and easier than any other thing.
-41,Magnus Andersen,"February 17, 2018",1,"Ubrukelig på Note 8. Etter at toast-tekst med ""Sending..."" dukker opp går appen tilbake til og forblir i login-aktiviteten (der hvor man fyller inn brukernavn/telefonnummer). Slik har det vært i over 4 mnd nå. Avinstallering/reinstallering hjelper ikke."
-42,Aiga Zaiga,"August 21, 2017",4,"Helt OK. Funker greit for å sjekke saldo ,men å betale regninger eller overføre penger må bruke PC. Funker greit som app."
-43,pål olsen,"June 22, 2017",3,Likte designet på forrige versjon bedre. Blåfargen ble så hard
-44,Stian Nordlie,"March 23, 2018",1,"Elendig på lik linje med aksjehandel i Nordea, som konsekvent ikke fungerer. Og elendig kundeservice."
-45,Thor Morten Smerud,"June 22, 2017",2,Forferdelig blåfarge! Hva med å bruke design guidelinene Google anbefaler? Ellers helt ok mobilbank..
-46,Paolo Villalon,"December 20, 2017",2,Verification has to be done several times
-47,Iulian S,"August 24, 2017",2,BankID på mobil ikke fungerer når man skal betale regninger in i appen .
-48,Łukasz Mikosz,"March 15, 2018",4,It's generally ok for the most of the banking you need to do everyday.
-49,Adnan Spahic,"November 12, 2017",1,App'en fungerer ikke på S8!!!
-50,A Google user,"July 5, 2017",1,Ble bedt om å rate så værsågod
-51,Monika Tobolova,"October 12, 2017",5,"Works good, I am happy with the quick access to view my finances."
-52,Espen Mathiesen,"June 23, 2017",2,To much downtime
-53,Kenneth Myrvang,"July 12, 2017",5,"Good uptime, easy to use and all the features I need."
-54,Erling Hawkes,"August 13, 2017",5,Mobile banking with easy transfers and payments. Simple and non-bloated.
-55,Perril Milano,"January 25, 2018",5,Bedre enn nettbanken
-56,Alex Moristar,"January 25, 2018",4,"It's good enough, but could be better probably?"
-57,Peter Wharton,"October 17, 2017",4,Easy to review and manage my finances on the go.
-58,Benjamin Matz,"July 26, 2017",5,Great online banking app from Nordea.
-59,Gavin,"September 27, 2017",4,It's ok
-60,Bendik Pedersen,"June 28, 2017",4,Easy to use and transfer money :)
-61,Dee Double,"January 26, 2018",5,Works great and easy to manage
-62,Myurathan Kajendran,"July 5, 2017",5,Basic but enough
-63,veeru reddy,"November 25, 2017",5,Gud
-64,Phu H. Nguyen,"July 18, 2017",4,Easy to use
-65,Bjørn Roalkvam,"December 26, 2017",5,Excellent app
-66,A Google user,"April 30, 2017",5,Very satisfied :)
-67,Thomas Undheim,"March 16, 2017",1,Very bad app. I can access my account (sometimes) and check my balance but that's it. Any other actions prompt an error message. Should call this app the Error Message Generator.
-68,Adam Joseph Zinafrazi,"January 17, 2017",2,Can't copy my account number.. can't copy ANYTHING
-69,A Google user,"January 28, 2017",1,Some problems with finger print log in
-70,James Watt,"November 23, 2016",4,Clear improvement over previous versions but still not as good as the likes of skandiabanken. You still don't have as many features as you do on the web site
-71,M V,"November 22, 2016",5,Oppdatering siden det har kommet innlogging med fingeravtrykk blir det 5 stjerner.
-72,A Google user,"March 21, 2018",2,Logger meg ut så fort BankID er godkjent. Denne feilen har vært i flere måneder på Galaxy S8. På tide å bytte til en bank med brukbar mobilapp...
-73,Guillaume Peigné,"June 10, 2016",4,Det hadde vore perfekt om seksjonen min økonomi hadde vore tilgjengeleg i appen også!
-74,Atle Magnussen,"May 30, 2016",3,"Logger inn i dag, men blir umiddelbart logget ut igjen"
-75,Eyvindur Leo,"September 18, 2016",3,Fingerprint log in keeps resetting and I have to make a new user all the time.
-76,Sasha Marusic,"August 5, 2016",5,Veldig grei app!
-77,Tor Helgesen,"November 1, 2016",1,Totalt ubrukelig
-78,Bridget Okpiden,"August 30, 2016",5,flott
-79,Christopher Leachman,"April 29, 2016",1,Wow. Chat functionality in a banking app! Just what I don't need. But ability to pay bills in the app? Fugetabowtit.
-80,Kevin Christy,"March 31, 2016",3,"Works fine for daily banking, but lacks Nexus Imprint support. The iOS version has fingerprint support, so no reason to delay too long with the Android application."
-81,Kim-André Skukkestad,"March 15, 2016",3,"Som tittel. Det er helt kritisk at jeg får betalt regninger gjennom mobilbank, men jeg får bare feilmelding."
-82,Gunnar Söderman,"April 6, 2016",5,Full oversikt. Foretrekker appen fremfor nettbanken.
-83,Fabio Pezzetti,"November 6, 2015",1,"After upgrading, doesn't work. The system does not recognize my data and does not allow access."
-84,Robin Sørensen,"October 30, 2015",3,"Den nye appen fungerer fint, men en funksjon jeg virkelig så frem til var invoice scanner. Dessverre virker ikke denne (hvertfall på min Sony Z5) som den skal. Kameraet starter og lyset slår seg automatisk på (burde kunne velge å bruke lys eller ikke selv). Problemet er at bildet bare går inn og ut ...Full Review"
-85,Martinius Ulberg,"October 28, 2015",4,Supert at appen nå viser penger i fond. Men favoritter burde ha mulighet til å vise Bokført saldo på BSU konto.
-86,paul jamero,"October 30, 2015",4,prøvde å bruke min økonomi. det kunne vært bedre hvis alt fungerer. men jeg liker appen. takk
-87,Marius Fløt,"November 11, 2015",2,Denne versjonen lar meg ikke betale regninger... Får opp prøv igjen senere.
-88,jimmy hansen,"December 9, 2015",3,Nexus imprint support mangler. Samt trenger et litt mer polert utseende.  Litt 1990 look.
-89,André Charles Haugs,"October 22, 2015",1,I have no accounts? everywhere i try to go is met by a blank site...
-90,Magnus Engseth,"October 22, 2015",2,"Appen er blitt mye bedre i ny versjon! Et par irriterende elementer er det likevel. Når man skal endre en efaktura endres automatisk dato til dagens istedenfor den som ligger inne (typisk forfallsdato). I tillegg er det ikke noen knapp for ""lagre"" etter endring av en efaktura, slik at man må bekreft...Full Review"
-91,Olav Krumsvik,"August 7, 2015",1,"Får ikke logget inn på mobilnett, bare over wifi etter siste oppdatering. Dette må fikses snarest, det gjør det helt umulig for meg å betale  regninger og overføre penger fra sparekonto på farta."
-92,Nana aanderaa,"April 30, 2015",1,Etter siste oppdatering kommer bare Mastercard kontoen opp. De andre har blitt borte. I tillegg går det ikke ann å betale lenger eller bekrefte regninger da bruker kontoen ikke lenger er tilgjengelig
-93,Knut Åge Lie,"September 12, 2015",3,"Jeg har også problemer med innlogging, men har funnet ut at det oftere virker om jeg deaktiverer 4G. NetCom, LG G4 (tidligere G3 med samme problem.)  Men appen i seg selv fungerer utmerket om jeg får ligget på."
-94,AbdAllah El-Halabi,"September 17, 2015",5,"Idag og endelig,alt er i orden etter et stopp på ca 1 mnd i forhold til å logge inn med mobildata ,nå er det tilbake mulighet til å logge inn både med mobildata og wifi ."
-95,Elise Gabrielsen,"September 8, 2015",1,"Får ikke logget inn hvis jeg ikke har wifi. Dette problemet oppsto for noen uker siden. Veldig irriterende da det helst er når jeg er på butikken, eller andre steder uten wifi, at jeg trenger å logge meg inn... Før dette problemet oppsto var jeg veldig fornøyd."
-96,Jonas Laskemoen,"June 5, 2015",1,Fiks dette så endrer jeg vurderingen min
-97,christen gran,"September 16, 2015",1,Stort sett umulig å logge inn uten wifi
-98,patience Arthur,"August 24, 2015",2,få  ikke  betaler  regninger
-99,Mari Allenda Bolstad,"August 28, 2015",1,Fungerer ikke på 4G
-100,Hörður Guðlaugsson,"August 4, 2015",1,Funkerer ikke på 4G
-101,Carl-Johan Wiklund,"August 28, 2015",5,Fungerer bra!
-102,Ola Sverre Hønk Pedersen,"July 5, 2015",4,Dunker greit
-103,Per Schwensen,"February 27, 2015",4,Men f.ex. listen over betalinger som kommer i tiden fremover savner en sluttsum nederst slik som nettbanken har.
-104,Austė Verbickaitė,"April 3, 2015",1,No choices how  to control money
-105,Enrico V,"February 27, 2015",1,Fix this thing
-106,T Borge,"August 31, 2014",1,Can't pay bills without downloading a bankid app that doesn't work either. App is about as useful as Nordeas customer service
-107,Ellen Hilde Du Plessis,"January 14, 2015",1,"Kan ikke logge inn i det hele tatt. Har installert appen på nytt flere ganger nå, og den lukker seg på innlogging hver gang. Håpløst. Funket helt fint før oppgraderingen. Fiks, eller så flytter jeg bank!"
-108,Morten B Fjellsbø,"July 4, 2014",5,"Appen er veldig bra, men den støtter ikke eldre dingser. Kan ikke bruke den på min htc flyer. Hadde satt pris på om de kunne lagt inn støtte for HTC FLYER."
-109,Ventil Ator,"October 20, 2014",5,"Fungerer uten feil på Note 3, men sliter mye mer med kobling enn den gamle appen."
-110,Arne Velle,"September 1, 2014",3,"Dårlig kontroll på efaktura avtaler, må ty til pc. Unødvendig. Grei app elles"
-111,Simen Andresen,"July 28, 2014",5,Veldig mye bedre enn den forrige mobilappen fra nordea. Har fungert utmerket hittil!
-112,Geir Førde,"November 2, 2014",5,Just love the latest upgrade! Takes mobile banking to a whole new level!
-113,Mize Hasin,"July 30, 2014",1,Fake app..
-114,Viktor Pettersson,"November 7, 2014",4,Mye bedre
-115,Stefan Dimitrij Fische,"October 10, 2014",4,... Hvorfor i huleste huttaheitti finnes det ikke landskaps-visning til denne appen? Jeg kan umulig være den eneste som bruker telefonen i landskaps-modus? Selv når jeg tvinger telefonen til kun å tillate 'landskap' bytter den til 'portrett' så snart jeg starter appen.   Det er en filleting å snu te...Full Review
-116,Kennth Businge,"September 16, 2014",5,Great app no complaints
-117,Maaz Rasheed,"July 4, 2014",5,Works perfect...
-118,Rudi van Vuuren,"June 21, 2014",4,"Now I can do 95% of my banking from my phone! One last thing to update, option to select if a payment is recurring weekly, monthly, etc. Then I will give it 5 *"
-119,Agito,"June 19, 2014",3,Appen trenger en del forbedringer. Da jeg ofte får feilmeldinger om at enkelte deler av appen ikke er tilgjengelig og om prøve igjen senere.
-120,Vaibhav Padole,"June 16, 2014",5,Nice and efficient app with lots of features !! ;)
-121,Arthur Cideron,"June 12, 2014",5,Nice and simple design
-122,Ayaan Adam,"September 27, 2017",4,"Easy to check account balance, incoming and outgoing transfers.  Takes time to pay bills, you have to put all your details( BankID)again and again to pay bills or transfer/Send money. Which can be annoying when in hurry or when you don't have it with you.  Over all a good App to use."
-123,R Stunetii,"December 9, 2017",1,"Completely useless. I enter ID and mobile number, and then pin. The app then takes me back to the start screen."
-124,Andreas O. Bø,"September 7, 2018",2,"Waste of space, buggy/unstable & little to no benefit over a web browser."
-125,A Google user,"February 24, 2019",2,"På tide å oppdatere snart? Appen ser ut som om den er laget for Android 4.0, ganske urettferdig når du ser hva apple har i forhold."
-126,Amanda Ozola,"August 18, 2017",2,Jeg kan ikke betale regninger gjennom appen. Det visses at den sender og etter det kommer det ingenting mer.
-127,Hans M,"November 5, 2015",3,Hvorfor skal dere ha tilgang til kameraet i den nye oppdateringen?        Edit: ok
-128,A Google user,"June 28, 2017",5,Very good service.
+31,"April 30, 2018",1,"vanskelig å gi en bank noe bra score når de ikke klarer å levere en 
+mobilbank for bedrift. den eksisterende løsningen for bedrift har vært ute 
+av drift i flere år."
+32,"April 27, 2018",4,huslån kommer ikke inn i forfallslisten. ellers helt super.
+33,"August 21, 2017",4,i think the app is quite good enough for typical standard banking movements. the only pain is that it does not have a light-fast mode for paying as i require to use bankid. but overall it is pretty good and easy.
+34,"June 22, 2017",1,in old version i could see incoming and outgoing transactions in different colours but in this version there's no difference. very complicated and boring interface.
+35,"October 24, 2017",3,"med den nye nougat 7 oppdaterigen så har jeg problemer med å logge inn med bankid på mobil. på den random ord generator skjermen, men en gang jeg trykker ok etter å taste pinkoden så går det tilbake til login skjermen igjen"
+36,"September 25, 2017",1,"elendig, fungerer ikke på samsung s8 i det hele tatt. etter bankid på mobil steget forsvinner bilde/formen som skulle tatt deg til saldo-visning, og appen blir stående på innloggingsskjermen. fiks det!!!"
+37,"October 2, 2017",1,når jeg prøver å logge inn med personnummer og telefonnummer står det at noe gikk galt og at jeg må sjekke om jeg har tastet riktig. denne feilen har eksistert i over et år for meg
+38,"December 10, 2017",1,at en internasjonal bank som nordea ikke klarer å holde brukernes konto oppe å gå er flaut.  ikke får man opp konto info i appen. ikke kan man betale med kortene deres.  det er alt for ofte nede tid som ikke kundene blir advart om.   flaks man har kjente med annen bank når man er ute å spiser middag...full review
+39,"July 3, 2017",3,"få tilbake norsk flagg på appen, den er helt lik den svenske. helt umulig å se forskjell på ikonet!"
+40,"December 3, 2017",5,i think that it is good app because custommers can check their money online and easier than any other thing.
+41,"February 17, 2018",1,"ubrukelig på note 8. etter at toast-tekst med ""sending..."" dukker opp går appen tilbake til og forblir i login-aktiviteten (der hvor man fyller inn brukernavn/telefonnummer). slik har det vært i over 4 mnd nå. avinstallering/reinstallering hjelper ikke."
+42,"August 21, 2017",4,"helt ok. funker greit for å sjekke saldo ,men å betale regninger eller overføre penger må bruke pc. funker greit som app."
+43,"June 22, 2017",3,likte designet på forrige versjon bedre. blåfargen ble så hard
+44,"March 23, 2018",1,"elendig på lik linje med aksjehandel i nordea, som konsekvent ikke fungerer. og elendig kundeservice."
+45,"June 22, 2017",2,forferdelig blåfarge! hva med å bruke design guidelinene google anbefaler? ellers helt ok mobilbank..
+46,"December 20, 2017",2,verification has to be done several times
+47,"August 24, 2017",2,bankid på mobil ikke fungerer når man skal betale regninger in i appen .
+48,"March 15, 2018",4,it's generally ok for the most of the banking you need to do everyday.
+49,"November 12, 2017",1,app'en fungerer ikke på s8!!!
+50,"July 5, 2017",1,ble bedt om å rate så værsågod
+51,"October 12, 2017",5,"works good, i am happy with the quick access to view my finances."
+52,"June 23, 2017",2,to much downtime
+53,"July 12, 2017",5,"good uptime, easy to use and all the features i need."
+54,"August 13, 2017",5,mobile banking with easy transfers and payments. simple and non-bloated.
+55,"January 25, 2018",5,bedre enn nettbanken
+56,"January 25, 2018",4,"it's good enough, but could be better probably?"
+57,"October 17, 2017",4,easy to review and manage my finances on the go.
+58,"July 26, 2017",5,great online banking app from nordea.
+59,"September 27, 2017",4,it's ok
+60,"June 28, 2017",4,easy to use and transfer money :)
+61,"January 26, 2018",5,works great and easy to manage
+62,"July 5, 2017",5,basic but enough
+63,"November 25, 2017",5,gud
+64,"July 18, 2017",4,easy to use
+65,"December 26, 2017",5,excellent app
+66,"April 30, 2017",5,very satisfied :)
+67,"March 16, 2017",1,very bad app. i can access my account (sometimes) and check my balance but that's it. any other actions prompt an error message. should call this app the error message generator.
+68,"January 17, 2017",2,can't copy my account number.. can't copy anything
+69,"January 28, 2017",1,some problems with finger print log in
+70,"November 23, 2016",4,clear improvement over previous versions but still not as good as the likes of skandiabanken. you still don't have as many features as you do on the web site
+71,"November 22, 2016",5,oppdatering siden det har kommet innlogging med fingeravtrykk blir det 5 stjerner.
+72,"March 21, 2018",2,logger meg ut så fort bankid er godkjent. denne feilen har vært i flere måneder på galaxy s8. på tide å bytte til en bank med brukbar mobilapp...
+73,"June 10, 2016",4,det hadde vore perfekt om seksjonen min økonomi hadde vore tilgjengeleg i appen også!
+74,"May 30, 2016",3,"logger inn i dag, men blir umiddelbart logget ut igjen"
+75,"September 18, 2016",3,fingerprint log in keeps resetting and i have to make a new user all the time.
+76,"August 5, 2016",5,veldig grei app!
+77,"November 1, 2016",1,totalt ubrukelig
+78,"August 30, 2016",5,flott
+79,"April 29, 2016",1,wow. chat functionality in a banking app! just what i don't need. but ability to pay bills in the app? fugetabowtit.
+80,"March 31, 2016",3,"works fine for daily banking, but lacks nexus imprint support. the ios version has fingerprint support, so no reason to delay too long with the android application."
+81,"March 15, 2016",3,"som tittel. det er helt kritisk at jeg får betalt regninger gjennom mobilbank, men jeg får bare feilmelding."
+82,"April 6, 2016",5,full oversikt. foretrekker appen fremfor nettbanken.
+83,"November 6, 2015",1,"after upgrading, doesn't work. the system does not recognize my data and does not allow access."
+84,"October 30, 2015",3,"den nye appen fungerer fint, men en funksjon jeg virkelig så frem til var invoice scanner. dessverre virker ikke denne (hvertfall på min sony z5) som den skal. kameraet starter og lyset slår seg automatisk på (burde kunne velge å bruke lys eller ikke selv). problemet er at bildet bare går inn og ut ...full review"
+85,"October 28, 2015",4,supert at appen nå viser penger i fond. men favoritter burde ha mulighet til å vise bokført saldo på bsu konto.
+86,"October 30, 2015",4,prøvde å bruke min økonomi. det kunne vært bedre hvis alt fungerer. men jeg liker appen. takk
+87,"November 11, 2015",2,denne versjonen lar meg ikke betale regninger... får opp prøv igjen senere.
+88,"December 9, 2015",3,nexus imprint support mangler. samt trenger et litt mer polert utseende.  litt 1990 look.
+89,"October 22, 2015",1,i have no accounts? everywhere i try to go is met by a blank site...
+90,"October 22, 2015",2,"appen er blitt mye bedre i ny versjon! et par irriterende elementer er det likevel. når man skal endre en efaktura endres automatisk dato til dagens istedenfor den som ligger inne (typisk forfallsdato). i tillegg er det ikke noen knapp for ""lagre"" etter endring av en efaktura, slik at man må bekreft...full review"
+91,"August 7, 2015",1,"får ikke logget inn på mobilnett, bare over wifi etter siste oppdatering. dette må fikses snarest, det gjør det helt umulig for meg å betale  regninger og overføre penger fra sparekonto på farta."
+92,"April 30, 2015",1,etter siste oppdatering kommer bare mastercard kontoen opp. de andre har blitt borte. i tillegg går det ikke ann å betale lenger eller bekrefte regninger da bruker kontoen ikke lenger er tilgjengelig
+93,"September 12, 2015",3,"jeg har også problemer med innlogging, men har funnet ut at det oftere virker om jeg deaktiverer 4g. netcom, lg g4 (tidligere g3 med samme problem.)  men appen i seg selv fungerer utmerket om jeg får ligget på."
+94,"September 17, 2015",5,"idag og endelig,alt er i orden etter et stopp på ca 1 mnd i forhold til å logge inn med mobildata ,nå er det tilbake mulighet til å logge inn både med mobildata og wifi ."
+95,"September 8, 2015",1,"får ikke logget inn hvis jeg ikke har wifi. dette problemet oppsto for noen uker siden. veldig irriterende da det helst er når jeg er på butikken, eller andre steder uten wifi, at jeg trenger å logge meg inn... før dette problemet oppsto var jeg veldig fornøyd."
+96,"June 5, 2015",1,fiks dette så endrer jeg vurderingen min
+97,"September 16, 2015",1,stort sett umulig å logge inn uten wifi
+98,"August 24, 2015",2,få  ikke  betaler  regninger
+99,"August 28, 2015",1,fungerer ikke på 4g
+100,"August 4, 2015",1,funkerer ikke på 4g
+101,"August 28, 2015",5,fungerer bra!
+102,"July 5, 2015",4,dunker greit
+103,"February 27, 2015",4,men f.ex. listen over betalinger som kommer i tiden fremover savner en sluttsum nederst slik som nettbanken har.
+104,"April 3, 2015",1,no choices how  to control money
+105,"February 27, 2015",1,fix this thing
+106,"August 31, 2014",1,can't pay bills without downloading a bankid app that doesn't work either. app is about as useful as nordeas customer service
+107,"January 14, 2015",1,"kan ikke logge inn i det hele tatt. har installert appen på nytt flere ganger nå, og den lukker seg på innlogging hver gang. håpløst. funket helt fint før oppgraderingen. fiks, eller så flytter jeg bank!"
+108,"July 4, 2014",5,"appen er veldig bra, men den støtter ikke eldre dingser. kan ikke bruke den på min htc flyer. hadde satt pris på om de kunne lagt inn støtte for htc flyer."
+109,"October 20, 2014",5,"fungerer uten feil på note 3, men sliter mye mer med kobling enn den gamle appen."
+110,"September 1, 2014",3,"dårlig kontroll på efaktura avtaler, må ty til pc. unødvendig. grei app elles"
+111,"July 28, 2014",5,veldig mye bedre enn den forrige mobilappen fra nordea. har fungert utmerket hittil!
+112,"November 2, 2014",5,just love the latest upgrade! takes mobile banking to a whole new level!
+113,"July 30, 2014",1,fake app..
+114,"November 7, 2014",4,mye bedre
+115,"October 10, 2014",4,... hvorfor i huleste huttaheitti finnes det ikke landskaps-visning til denne appen? jeg kan umulig være den eneste som bruker telefonen i landskaps-modus? selv når jeg tvinger telefonen til kun å tillate 'landskap' bytter den til 'portrett' så snart jeg starter appen.   det er en filleting å snu te...full review
+116,"September 16, 2014",5,great app no complaints
+117,"July 4, 2014",5,works perfect...
+118,"June 21, 2014",4,"now i can do 95% of my banking from my phone! one last thing to update, option to select if a payment is recurring weekly, monthly, etc. then i will give it 5 *"
+119,"June 19, 2014",3,appen trenger en del forbedringer. da jeg ofte får feilmeldinger om at enkelte deler av appen ikke er tilgjengelig og om prøve igjen senere.
+120,"June 16, 2014",5,nice and efficient app with lots of features !! ;)

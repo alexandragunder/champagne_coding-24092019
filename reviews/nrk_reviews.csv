@@ -1,155 +1,42 @@
-,Name,Date,Review_Score,Review_Text
-1,Joe Supererogatory,"March 26, 2019",2,"Kind of all right, but it is impossible to see if a news item is video or text - and as video often starts up with sound on, this app is next to useless for me. I need to be able to control sound."
-2,Vemund Wannag,"July 7, 2019",5,"Hadde vært fint om dere kunne ha lagt til mørkt tema i appen, ellers helt topp 👍"
-3,Mathias Pedersen,"May 27, 2019",5,"veldig bra, fint at NRK kom med en ordentlig applikasjon"
-4,Simon Helgen,"May 27, 2019",5,helt utmerket. har ventet lenge på en nrk app
-5,Patchie Patch,"May 7, 2019",4,dere må få darkmode
-6,Ernst Thälmann,"July 31, 2019",5,great app
-7,Bjørn-Tore semb,"March 4, 2019",5,helt konge! skulle bare hatt darkmode...
-8,Marius Elvheim,"August 10, 2018",4,"Appen er fin, men jeg savner mulighet til å skreddersy hva slags nyheter 
+,Date,Review_Score,Review_Text
+1,"March 26, 2019",2,"kind of all right, but it is impossible to see if a news item is video or text - and as video often starts up with sound on, this app is next to useless for me. i need to be able to control sound."
+2,"July 7, 2019",5,"hadde vært fint om dere kunne ha lagt til mørkt tema i appen, ellers helt topp 👍"
+3,"May 27, 2019",5,"veldig bra, fint at nrk kom med en ordentlig applikasjon"
+4,"May 27, 2019",5,helt utmerket. har ventet lenge på en nrk app
+5,"May 7, 2019",4,dere må få darkmode
+6,"July 31, 2019",5,great app
+7,"March 4, 2019",5,helt konge! skulle bare hatt darkmode...
+8,"August 10, 2018",4,"appen er fin, men jeg savner mulighet til å skreddersy hva slags nyheter 
 jeg får varsler om."
-9,A Google user,"September 29, 2018",5,"Funker, dog kunne tenkt meg pinch to zoom i nettleseren og valg av kategorier for nyhetsvarsel."
-10,A Google user,"February 11, 2018",2,"Installerte denne primært for å få varsel om viktige nyheter/hendelser, men verken Trond Giske eller OL er noe jeg føler er viktig nok til å bli varslet om. Det burde være et valg for nyheter som vanligvis fører til ekstrasending, resten får jeg med meg på vanlig måte."
-11,Tordemann,"March 16, 2018",4,"Det eneste jeg savner er å kunne endre ""notification"" lyden til appen. Det hadde vært veldig greit å kunne høre att det er NRK appen jeg får melding fra. En nattmodus med mørkere farger hadde også vært et stort pluss."
-12,Jonathan Evason,"March 1, 2018",4,Great way to practice learning Norwegian :-)
-13,A Google user,"November 11, 2017",1,"It doesn't show the news page properly on my Note 8, it flashes and then shows a blank screen."
-14,Alexander,"September 16, 2017",2,Appen liker ikke VPN.
-15,Sten Kristian Finckenhagen,"August 27, 2017",1,Forrige versjon var langt bedre. Horisontal scrolling for siste nyhetsinnslag fungerer ikke. Hvordan kan jeg gå tilbake til forrige versjon?
-16,Kjetil Rydland,"December 1, 2018",5,"Godt design, bra funksjonalitet"
-17,Maye,"August 7, 2017",3,"Helt ålreit app, men greier ikke helt å se vitsen med den når jeg like greit kan sjekke nettsidene. Om jeg kunne ha bestemt selv hva slags saker som kom opp på forsida kunne det vært et poeng for meg , å ha kategoriene jeg er interessert i samlet på ei egen side er ikke det samme.  Liker at jeg kan ...Full Review"
-18,Håkon Schanke,"July 29, 2017",3,Grei app for gratis nyheter. Savner søkefunksjon for å finne konkrete saker.
-19,Lars Fosdal,"June 28, 2017",1,"Denne appen er fullstendig ubrukelig. Ingen horisontal modus, ingen beslektede saker. Idiotiske deleknapper på forsiden. Hvorfor dele noe du ikke har lest enda? Horisontal rulling av nyheter, hva har dere røyke egentlig?  Dette er fortsatt for dårlig."
-20,Ruben Nicolai Johnsen Birkelund,"January 5, 2018",3,Hvor ble det av søkeknappen?
-21,Utkarsh Singh,"May 19, 2017",5,Flott! Ingen klager om appen.
-22,Alexander Sooksri Henriksen,"April 7, 2017",5,Im happy with it. Good j8b!
-23,Jogeir Lindseth,"March 14, 2017",1,"Verre og verst! Foer var den burkbar paa en maate, men naa, huff huff"
-24,Christoffer Larson,"March 1, 2017",1,Innstillinger blir ikke lagra. Kan ikke søke. Avinstalleres.
-25,Jon Arne Husebø,"February 22, 2017",1,Please make it possible to zoom.
-26,Sharedvalueafrica South Africa,"February 6, 2017",2,Utrolig treg til å laste ned sidene.  UI er god.  Hadde vært genialt om radio og tv var integrert.
-27,Ari August Segebarth-Bjerga,"December 22, 2016",5,"Veldig bra design og utforming av navigering og artikler. Kjapp og resposiv. Måtte ta omstart på mobilen for å få appen til å fungere, til tross for gjentatte avinstalleringer og installeringer."
-28,Anthony Brown,"December 8, 2016",2,"Present version of app is worse than previous. Clean layout: yes, easy access to News and articles :  no."
-29,Mikhail Schedrin,"December 5, 2016",3,I would like to turn off vibration for notifications. And get no notifications during the night.
-30,Kjell Hansen,"November 12, 2016",1,"Den nye er tungvint og uoversiktelig. Buggete og treg. Som et glansbilde, fint på fremsiden men ingenting bak."
-31,Henrik .B,"August 17, 2015",3,"Bra app, men litt utdatert UI? Blir noen ganger låst til et zoom-nivå uten å klare å zoome ut når man går fra landskap til portrett på hjem-siden. Fikses når jeg trykker på en artikkel og så går tilbake igjen til hjemmesiden."
-32,ammi,"April 15, 2015",4,"Super app, men er litt synd at ein ikkje kan gå direkte inn på tittelen som kjem opp som notifications på telefonen (går inn på forsida). Elles strålande nøgd! :)"
-33,Gerhard Just Olsen,"May 22, 2015",1,Appen henger seg ofte opp så jeg må lukke den og åpne på nytt igjen. Spesielt når den har vært åpen en stund. Radio fungerer svært dårlig. Beklager NRK. Jeg hadde forventet mer av dere. Skal ikke NRK være en riks kringkaster tilgjengelig på alle plattformer?
-34,arielle hunter,"February 14, 2015",2,Cannot search with keyboard [Jbak and Hacker's]
-35,John Bjerke,"January 15, 2014",3,Hvis appen legges i bakrunnen blir nyhetsiden blank. Da må jeg avslutte og begynne på nytt.
-36,Karen Karn,"October 3, 2013",5,Topp
-37,Dag Rune Gjellesvik,"August 17, 2013",2,"Som den forrige nrk radio-appen hopper avspillingen fram og tilbake, rene flettverket. Svært ofte hopper avspillingen helt ut, og du må starte programmet på nytt. Fint med tilgang til programmene, med musikk under streaming, men hva hjelper det når musikk og prat stokkes uavlatelig?"
-38,Kristin Omre Raknes,"July 2, 2013",1,Fungerer ikke på Samsung Galaxy S4 etter siste oppdatering
-39,Geir Nådland,"June 25, 2013",1,Disconnecter  hele tiden.
-40,Kevin Fossum,"June 21, 2013",1,Denne appen var meget bra helt til nå. Nå spiller radio bare noen sekunder så stopper det. Så ikke poenget med å forandre på noe som allerede funket
-41,Per Hansen,"May 13, 2013",2,"nei og nei, wow...den nye versjonen med NRK TV er jo stupid, programmet sporer av og du må starte alt på nytt hele tiden. Ikke rart lisenspengene sløses bort når man skjønner hvor mangelfullt tankesettet er. Forrige versjon: appen hacker, bilde og lyd ikke sync,  og stopper opp etter en stund. Nei, ...Full Review"
-42,Tor Helgesen,"June 9, 2013",1,If nrk paid for this they should ask for the money back.
-43,John Patrick Glattetre,"April 12, 2013",5,Fungerer helt fint på min Nexus 4. Bare installer MX Player så vil det fungere absolutt fantastisk!
-44,Robert K,"May 1, 2013",1,Fungerer ikke å spille av tv. Ingen grunn til installere denne appen. Hvorfor tvang dere utv. av nrk appen til å fjerne dem!.
-45,Ludvig Pedersen,"March 23, 2013",1,Jeg forventer bedre av NRK
-46,Rune Kolvik,"January 31, 2013",2,"Etter siste update, som skulle fikse krash problemer. Opplever jeg mye mer krasj."
-47,Yann Aker,"February 9, 2013",1,"De fleste vil se TVnyheter eller direktesending. Ellevilt mye klikking før man er i mål - i en ekstern app! Elendig streaming, hvorfor ikke like bra eller bedre enn Taaengs  ex-app?"
-48,Andreas Wiik,"February 15, 2013",1,"Lyden stopper etter noen minutter, så begynner den forfra igjen og så dør den."
-49,A Google user,"January 2, 2013",1,"Testet pa HTC decire, Galaxy tab 10.1 og S2. Elendig videokvalitet, masse bugs, utnytter store skjermer elendig, laster tregt, må oppdateres manuelt mellom klippene - for å nevne noe. Elendig sammenlikned med Taaeng sin app som var enkel men faktisk funket (dere vet hvem jeg mener). Eneste positive ...Full Review"
-50,Odne Hellebø,"November 30, 2012",1,Dere har lagt inn eit program for streaming med flash på ein plattform som ikkje støtter flash! Ta eit hint og lag noe som vi kan bruke!
-51,Bjørn Krogh Robak,"December 29, 2012",1,"Denne appen har et ekstremt lite intuitivt brukergrensesnitt (GUI) i tillegg til at den ikke fungerer til en av kjernefunksjonene: til å se nett-TV på mobilen. Choppy og glitchy bilde, samt henger seg med jevne mellomrom.   Anbefaler utviklerne å sette seg bedre inn i Android sin designfilosofi."
-52,A Google user,"January 17, 2013",1,"Ehh...  Dersom jeg vil se alt dere har på nettsidene, så har jeg nettleser på telefonen.  En app bør være mer spesialisert.  Prøvde denne for å se på TV, men bare hakking og dårlig bilde.  Skjerp dere.  Ubrukelig app for TV titting, og nesten ubrukelig for radio, da den tar lange pauser (jeg har bra...Full Review"
-53,Kim Kaspersen,"November 19, 2013",2,It doesnt link with the nrk tv app when its supposed to. It just tells me Im not connected to the internet when I clearly am connected.
-54,Magnus Johan Nilsen,"January 5, 2013",2,"Synes egentlig appen er grei, men det som trekker MYE ned er at man ikke kan streame videoklippene som er lagt ut pga. At de er flash-baserte."
-55,A Google user,"November 10, 2012",3,"Appen funker ok, men kan ikke spille av videoer siden de krever flash og flash er fjernet fra Google Play. Kjører Android 4.0.4."
-56,A Google user,"November 26, 2012",4,"I følge ratingen på playstore skulle man tro at dette er en søppel-app. Men det er det ikke, fungerer faktisk ganske så bra."
-57,Paul See,"January 17, 2013",1,Synes appen ser bra ut og er praktisk oppbygd. Problemet er at den ikke funker i fullskjerm og at lyden av og til begynner å sprake noe forferdelig. Kjører appen på Samsung Note 10.1. Jeg skal straks kaste på minst tre stjerner til om det kommer en oppdatering som fikser disse problemene.
-58,A Google user,"January 13, 2013",1,"App chrashes when trying to open ""nett tv"". Uses flash!"
-59,John Sure,"December 18, 2012",5,A very good app. App release issues are gone. 12 Dec 2012.
-60,Roger Sæle,"January 1, 2013",5,"Har prøvd å se NRK ved å bruke Chrome eller Dolphin Browser, men fungerer relativt dårlig. Med denne appen fungerer alt utmerket, skjønner ikke helt den dårlige ratingen."
-61,Frode B.,"January 29, 2013",5,Fungerer helt fint
-62,Christian Meum,"January 3, 2013",5,Fungerer ypperlig på Nexus 10. Enklere brukergrensesnitt enn på nettsiden.  Enig med flere andre som ikke forstår hvorfor appen har fått så dårlig rating.
-63,Finn Alexander Lie,"January 15, 2013",5,"Etter å ha testet appen, må eg si at score'n er urettferdig. Den får helt klart 5 av meg, skjønt eg ble litt overrasket over at NRK skulle klare å lage noe bra... Godt jobbet NRK!"
-64,A Google user,"November 25, 2012",1,"Fungerer jo knapt! elendig navigering, søk fungerer ikke... Forventer mye bedre av en institusjon jeg betaler 2500 til i året! Det finnes knapt et positivt review her, på tide dere tar kundene deres alvorlig og får fikset denne appen!"
-65,A Google user,"November 14, 2012",1,The previous app was simpler and better. Why complicate things?
-66,Tor Eilev Kleiverud,"December 19, 2012",5,Fungerer veldig bra. Tilgang til alt NRK har på nett direkte fra appen.
-67,CasualGard,"November 27, 2012",1,Denne fungerer jo faktisk ikke... Kreve flash for avspilling på Android nettbrett???!
-68,A Google user,"November 14, 2012",1,"Denne updaten er ikke bra,alt crasher og video streamingen hopper å hakker, Fix it or **** it"
-69,Trnod P,"January 29, 2013",1,nrk er jo bare skjit uansett..
-70,A Google user,"January 16, 2013",1,Det er pinlig å se NRKs forsøk på nettkringkasting.
-71,A Google user,"December 12, 2012",4,Funker som fjell her. Bra video kvalitet å. :)
-72,A Google user,"December 10, 2012",5,This app is fixed now. Tv works and looks fantastic on the galaxy note 10.1
-73,A Google user,"September 10, 2012",2,Hør med Nrkbeta folka. Om appen. De har litt peil :)  Og så kan dere bruke ca posisjon (nettverk) istedenfor gps.
-74,A Google user,"November 11, 2012",1,"Kan dere VENNLIGST lage en streaming-app som fungerer? Med nye nett -TV ekskluderte dere seere med treg PC, og på Android gjør dere det samme (selv om det FANTES gode apper laget av andre...). Med hilsen Nokså Rasende Kunde. --LG Optimus One"
-75,A Google user,"October 22, 2012",1,Forrige appen kunne man bruke til å se nett TV. Med denne fungerer ikke nett TV lenger. Den henger seg opp og fungerer utrolig dårlig! Kjempe frustrerende.
-76,A Google user,"October 1, 2012",1,Kan ikke finne denne på Samsung Galaxt tab 2 10.1 !! finner appen på Sony xperia active og på nett.. Synd at man ikke får brukt den på et nettbrett!!!!
-77,A Google user,"October 2, 2012",1,"Tester appen regelmessig på min htc one v, men den har aldri fungert. Kræsjer før oppstart. Savner den uoffisielle appen for nrk nett-tv."
-78,A Google user,"November 4, 2012",1,"Dette er første gangen jeg føler behov for å rate en gratis app. Man forventer i utgangspunktet ikke et veldig godt produkt for ingenting. Men denne appen er rent faktisk i særklasse ubrukelig. Den er full av bugs, den har et generisk og uegnet grensesnitt (ser ut som websiden til NRK), den er ikke ...Full Review"
-79,A Google user,"October 22, 2012",1,Opprinnelig trodde jeg at dette ville bli bra. Men det ble det ikke. Denne appen har så mange problemer at jeg undrer meg over at nrk har sluppet et så lite testet produkt ut på app-markedet. Skuffende dårlig!
-80,A Google user,"November 1, 2012",1,Skjer ingenting når jeg trykker på tvprogrammer eller direkte tv.
-81,A Google user,"November 8, 2012",1,"Den mener jeg ikke har flash, jeg kjører Android"
-82,A Google user,"November 9, 2012",5,Stream og navigering er veldig bra.
-83,A Google user,"September 8, 2012",1,Since you shut down the unofficial app you're only getting one star. Alternatives are always good for development and innovation.
-84,A Google user,"September 8, 2012",1,Dette er jo bare en dårlig nettleser. Det trenger jeg ikke.
-85,A Google user,"September 10, 2012",1,Får bare beskjed om at nrk ikke har rettigheter til å vise programmene på mobile enheter. Bra bruk av lisens pengene våre...
-86,A Google user,"September 9, 2012",1,"Appen kommer helt tiden opp med beskjed om at jeg må være koblet til internett selv om jeg faktisk er det, og jeg ser at den laster nettsiden rett før beskjeden kommer opp. Også dårlig med oppdateringer."
-87,A Google user,"September 7, 2012",1,Does nothing an ordinary web browser can't do. Video doesn't show for live transmits.
-88,A Google user,"December 10, 2012",1,"Dette Er sånn passe dårlig. Flaks om du får sett Tv. Den klager hele tiden at den ikke har nett både via wlan og telenor, selv om alle andre internet apper funker. Probably worst app ever..."
-89,A Google user,"August 15, 2012",3,"Usynkronisert, ufattelig dårlig og kornete bilde kvalitet. Det var bedre kvalitet på den uoffisielle appen som ble stengt ned. Fiks dette og det blir en super duper bra app :)"
-90,A Google user,"August 7, 2012",1,Den uoffisielle appen var mange ganger bedre. Det hakker og sliter seg gjennom. Og det på min 100 mbit linje...
-91,A Google user,"August 26, 2012",1,"Horribelt av statskanalen med sin sterke pengestøtte i form av statlig hjelp og lisenspenger inn fra forbrukeren å ikke kunne utvikle en mer fullverdig app, og samtidig nekte sending fra denne andre uoffisielle nrk appen. Denne funker jo ikke. Svart skjerm over 10min testing og når lyden kommer ""hen...Full Review"
-92,A Google user,"August 13, 2012",1,Og dette brukes lisenspengene til! som jeg ikke betaler uansett... ;p
-93,A Google user,"August 12, 2012",1,Dette var ikke brukbar.
-94,A Google user,"July 18, 2012",1,"Den uoffisielle appen som dere tok livet av fungerte fint. Denne skiten gir hakkete både lyd og bilde på min Viewpad 7 uansett nettforbindelse. Istedenfor å ta livet av en utmerket gratis app, burde dere ansette utvikleren som får til det dere ikke kan."
-95,A Google user,"August 10, 2012",2,"Appen prøver å tilby alt på ett sted, noe som for så vidt er prisverdig, men ender opp med å bli alt for stor og treg. Den konkurrerende NRK avspiller gjorde en mye bedre jobb!"
-96,A Google user,"July 29, 2012",1,Savner NRK TV appen. Noen som vet hvor man kan få tak i .apk til den gamle appen?
-97,A Google user,"August 12, 2012",1,Kan ikke forstå at dere tok livet av en uoffisiell gratisversjon og gir oss dette alternativet. Fungerer dårlig og oppleves kronglete.
-98,A Google user,"July 26, 2012",1,Jeg trenger ikke enda en nettleser... Kun en GOD steaming tjeneste.
-99,A Google user,"August 7, 2012",1,Fremdeles elendig etter siste oppdatering. Video og lyd hakker...
-100,A Google user,"August 9, 2012",1,Nrk har klart å lage en app som er helt ubrukelig. Gratulerer.
-101,A Google user,"August 6, 2012",1,"Helt krise. Bare søppel. Krasjer konstant, elendig video, treig. Forkastelig app."
-102,A Google user,"August 6, 2012",1,"Uoversiktlig, hakkete bilde og lyd. Den andre appen var langt bedre."
-103,A Google user,"July 17, 2012",1,Dere sperrer en glimrende klient for å se nett-tv og mener tydeligvis at dette er et bra alternativ? Crappy frontend til nett sidene deres... skuffende!
-104,A Google user,"July 11, 2012",1,Dere fjernet en app som fungerte...og jeg fikk denne som krever å få vite min nøyaktige gps-posisjon samt lyd- og bildeopptak...og i tillegg er ustabil. Hurra...
-105,A Google user,"July 9, 2012",1,"Kindly explain to someone who's $550 shorter after paying for a Galaxy 10.1 why you're pushing ""android"" apps when the video isn't supported on the tablet?"
-106,A Google user,"July 8, 2012",1,"Poscast krasjer, live stream gir sort skjerm - men kommer til gjengjeld tilbake 'en gang' i bakgrunnen... Dette er langt fra noe jeg ville brukt mine lisenspenger på..."
-107,A Google user,"July 17, 2012",3,Får bare svart skjerm
-108,A Google user,"July 7, 2012",1,"Snarvei til en webside hvor det tar år, dag og votter før ting reagerer. Svart skjerm store deler, og missync mellom lyd og bilde når de først kom opp sammen."
-109,A Google user,"July 6, 2012",1,Takk for at dere erstatter en app som funker med en som ikke virker i det hele tatt. Skattepenger well spent... >:[
-110,A Google user,"July 4, 2012",1,Denna funker jo ikke å se nett tv med.
-111,A Google user,"July 5, 2012",1,Virker ikke :( null stjerner.
-112,A Google user,"May 19, 2012",2,"Dette er jo bare en middelmådig browser som viser m.nrk.no.  Jeg var kanskje noe naiv, men jeg hadde virkelig ventet meg noe bedre. Jeg skjønner ikke vitsen."
-113,A Google user,"July 5, 2012",5,Denne appen virker perfekt. Digger den. B-)
-114,A Google user,"May 24, 2012",1,Kræsjer ved oppstart. Motorola Defy+
-115,A Google user,"May 28, 2012",1,Virker ikke
-116,A Google user,"May 18, 2012",2,"Er glad for at NRK bryr seg om oss Android-folk! Gleder meg til å gi denne en god anmeldelse, men før jeg kan gjøre det så må en ting fikses: appen lar skjermen skru seg av. Da forsvinner litt av vitsen med mobil TV-mulighet.  Med en gang dere fikser screen timeout så tror jeg jeg blir veldig fornøy...Full Review"
-117,A Google user,"October 15, 2012",1,"Kanskje ikke overraskende, men dette er sjeldent dårlig! Fascinerende arrogant bruk av lisensmidler."
-118,A Google user,"November 12, 2012",4,"Skjønner ikke hva folk klager over i forhold til denne? Fungerer helt strålende på min Asus tf300, android 4.1. Man kunne kanskje vurdert å skille ut selve nyhetstjenesten fra NRKs eget innhold?"
-119,A Google user,"July 9, 2012",2,"Hva er vitsen? Treg og ute av synk. Hadde ventet meg noe bedre for lisenspengene. Håper de klarer å få til noe bedre med tiden, men kommer ikke til å holde pusten i påvent av det."
-120,A Google user,"August 9, 2012",1,"Anbefaler dere å leie inn noen som har peiling til utviklingen av appene deres. Den uoffisielle appen var både mer intuitiv og funksjonell. Elendig streaming, ubrukelig app, stygg taktikk mot konkurrenten."
-121,A Google user,"November 24, 2012",1,"Har det gått NRK hus forbi at Android ikke lenger støtter flash? Jeg er kun interessert I tv-biten. Web-innhold leser jeg i min foretrukne webleser, takk."
-122,A Google user,"July 28, 2012",1,"Først krever dere at gratis alternativet fjernes, første dere legger ut en ""app"" der lyd og bilde har så dårlig kvalitet at man ikke kan se på det. Kringkasting til folket? Lag iallefall noe som fungerer før dere legger det ut og fjerner alternativene"
-123,Geir Førde,"December 9, 2012",5,At den skulle kreve flash er bare tøys. Kjøretøy 4.1.2 og opplever ingen problemer med å se direkte tv/ videoer.
-124,A Google user,"August 10, 2012",1,"Radio funker bra, men tv-delen er ubrukelig. Hakker og dårlig kvalitet uansett nettverk. Den uoffisielle var 100%"
-125,Pål Driveklepp,"March 1, 2013",1,"fikk beskjed om at jeg manglet flash på min ""maskin"". jeg vil bare streame nrk nett-tv!"
-126,A Google user,"July 11, 2012",1,"Video krasjer, men lyden fortsetter i bakgrunnen - må tvangsstenges for å stoppe.  Hvorfor mase om jeg vil ha pushet på meg lokalnytt? Uendelig mye bortkastet plass og håpløs navigering i menyene. Les UX-guiden for GB/HC->ICS eller se f.eks. Facebook/Spotify."
-127,Anders Kirkerød,"January 7, 2013",5,Var skeptisk til denne når jeg så at det var en snarvei. Men det gjør ingenting når nettsiden er så godt gjennomført.
-128,Matias Kongsvik,"March 24, 2013",5,"S3 Stahp bitchin, works like a charm."
-129,Morten C. Eike,"December 2, 2012",2,"De siste versjonene av Android mangler Flash, Nett-TV fungerer ikke i disse. Hvorfor ikke legge seg på samme løsning som for iPhone/iPad?"
-130,A Google user,"July 11, 2012",2,"Savner flytende design, så appen kan tilpasse seg forskjellige skjermstørrelser og orienteringer(f.eks. mobiltelefon og nettbrett). Savner grensesnitt mot G+."
-131,A Google user,"July 13, 2012",1,"På iPhone er det egen NettTV-app, som ved ett klikk umiddelbart starter valgt kanal. Her er det tre klikk, via nettsidene til NRK, før jeg blir sittende å se på en svart skjerm som sier ""laster, vennligst vent"""
-132,A Google user,"November 2, 2012",1,Ingen videoer vil spille av på min Transformer prime (4.1.1.). Vil jeg surfe internett gjør jeg selvsagt d i en nettleser. Ubrukelig app.
-133,A Google user,"November 20, 2012",1,hvorfor nrk bruker teknologi som er avlegs? alle videoklipp er flash basert. Nrk burde lære av svenske svt. ingenting fungerer på android tablet eller telefoner m Nrk app eller via deres hjemmesider. android støtter ikke flash etter v.4.0. vi kan heller ikke dette vente på html5 i evigheter.  irrita...Full Review
-134,Phuong Mai Trapnes,"December 4, 2012",5,Virket helt uten problemer. Jeg åpner videoene i diceplayer. Alt har vært helt smertefritt!
-135,A Google user,"November 12, 2012",1,Som for mac og linux også... Og det fantes allerede en app som gjorde jobben..
-136,Gabriella Lee Schittny,"June 18, 2018",1,"Helt forferdelig app. Veldig dumt av NRK å ha byttet appen til nåværende 
-versjon."
-137,Pernilla Edlund,"February 10, 2013",1,"Unstable, crashes on all notifications"
-138,Kjell Magne G. Eines,"December 28, 2012",1,Lar meg se 2 min. om gangen før den dropper
-139,A Google user,"September 9, 2012",1,"Det var en gang en app som faktisk funka, hadde den på mobilen min. Men så ble den pluttselig forbudt, og han som hadde laget den måtte stenge den. Synd egentlig, synes at kvalitet er forbudt i dag. Men håper at kanskje NRK kan hyre ham til å lage en bedre utgave, og så relansere den. Da tror jeg de...Full Review"
-140,Eirik Mistereggen,"February 17, 2013",1,Fungerer ikke for direkte NRK tv som den stengte appen gjorde
-141,Nancy Smith,"December 16, 2012",1,Virker ikke paa min Galaxy fordi den ikke har stoette for Flash
-142,A Google user,"July 25, 2012",1,"Håpløst , håndter e r ikke bilder. Åpner heller en nettleser"
-143,A Google user,"July 28, 2012",1,Den uoffisielle appen var 20x bedre
-144,A Google user,"November 18, 2012",1,Latterlig.
-145,Peter Jones,"January 30, 2013",1,Doesn't work!
-146,A Google user,"December 19, 2012",4,Funker ser det ut til.
-147,A Google user,"January 3, 2017",3,Jeg liker nrk
-148,A Google user,"August 3, 2012",5,"This new software is a massive improvement, compared to the previous software. Big thumbs up ."
-149,Thamir,"February 14, 2015",5,VET IKKE!
-150,A Google user,"August 9, 2012",1,Dritapp. Virker ikke.
-151,Navdeep Kaur,"July 2, 2015",5,Cool
-152,Dhiraj kaushik,"August 14, 2015",5,Great
+9,"September 29, 2018",5,"funker, dog kunne tenkt meg pinch to zoom i nettleseren og valg av kategorier for nyhetsvarsel."
+10,"February 11, 2018",2,"installerte denne primært for å få varsel om viktige nyheter/hendelser, men verken trond giske eller ol er noe jeg føler er viktig nok til å bli varslet om. det burde være et valg for nyheter som vanligvis fører til ekstrasending, resten får jeg med meg på vanlig måte."
+11,"March 16, 2018",4,"det eneste jeg savner er å kunne endre ""notification"" lyden til appen. det hadde vært veldig greit å kunne høre att det er nrk appen jeg får melding fra. en nattmodus med mørkere farger hadde også vært et stort pluss."
+12,"March 1, 2018",4,great way to practice learning norwegian :-)
+13,"November 11, 2017",1,"it doesn't show the news page properly on my note 8, it flashes and then shows a blank screen."
+14,"September 16, 2017",2,appen liker ikke vpn.
+15,"August 27, 2017",1,forrige versjon var langt bedre. horisontal scrolling for siste nyhetsinnslag fungerer ikke. hvordan kan jeg gå tilbake til forrige versjon?
+16,"December 1, 2018",5,"godt design, bra funksjonalitet"
+17,"August 7, 2017",3,"helt ålreit app, men greier ikke helt å se vitsen med den når jeg like greit kan sjekke nettsidene. om jeg kunne ha bestemt selv hva slags saker som kom opp på forsida kunne det vært et poeng for meg , å ha kategoriene jeg er interessert i samlet på ei egen side er ikke det samme.  liker at jeg kan ...full review"
+18,"July 29, 2017",3,grei app for gratis nyheter. savner søkefunksjon for å finne konkrete saker.
+19,"June 28, 2017",1,"denne appen er fullstendig ubrukelig. ingen horisontal modus, ingen beslektede saker. idiotiske deleknapper på forsiden. hvorfor dele noe du ikke har lest enda? horisontal rulling av nyheter, hva har dere røyke egentlig?  dette er fortsatt for dårlig."
+20,"January 5, 2018",3,hvor ble det av søkeknappen?
+21,"May 19, 2017",5,flott! ingen klager om appen.
+22,"April 7, 2017",5,im happy with it. good j8b!
+23,"March 14, 2017",1,"verre og verst! foer var den burkbar paa en maate, men naa, huff huff"
+24,"March 1, 2017",1,innstillinger blir ikke lagra. kan ikke søke. avinstalleres.
+25,"February 22, 2017",1,please make it possible to zoom.
+26,"February 6, 2017",2,utrolig treg til å laste ned sidene.  ui er god.  hadde vært genialt om radio og tv var integrert.
+27,"December 22, 2016",5,"veldig bra design og utforming av navigering og artikler. kjapp og resposiv. måtte ta omstart på mobilen for å få appen til å fungere, til tross for gjentatte avinstalleringer og installeringer."
+28,"December 8, 2016",2,"present version of app is worse than previous. clean layout: yes, easy access to news and articles :  no."
+29,"December 5, 2016",3,i would like to turn off vibration for notifications. and get no notifications during the night.
+30,"November 12, 2016",1,"den nye er tungvint og uoversiktelig. buggete og treg. som et glansbilde, fint på fremsiden men ingenting bak."
+31,"August 17, 2015",3,"bra app, men litt utdatert ui? blir noen ganger låst til et zoom-nivå uten å klare å zoome ut når man går fra landskap til portrett på hjem-siden. fikses når jeg trykker på en artikkel og så går tilbake igjen til hjemmesiden."
+32,"April 15, 2015",4,"super app, men er litt synd at ein ikkje kan gå direkte inn på tittelen som kjem opp som notifications på telefonen (går inn på forsida). elles strålande nøgd! :)"
+33,"May 22, 2015",1,appen henger seg ofte opp så jeg må lukke den og åpne på nytt igjen. spesielt når den har vært åpen en stund. radio fungerer svært dårlig. beklager nrk. jeg hadde forventet mer av dere. skal ikke nrk være en riks kringkaster tilgjengelig på alle plattformer?
+34,"February 14, 2015",2,cannot search with keyboard [jbak and hacker's]
+35,"January 15, 2014",3,hvis appen legges i bakrunnen blir nyhetsiden blank. da må jeg avslutte og begynne på nytt.
+36,"October 3, 2013",5,topp
+37,"August 17, 2013",2,"som den forrige nrk radio-appen hopper avspillingen fram og tilbake, rene flettverket. svært ofte hopper avspillingen helt ut, og du må starte programmet på nytt. fint med tilgang til programmene, med musikk under streaming, men hva hjelper det når musikk og prat stokkes uavlatelig?"
+38,"July 2, 2013",1,fungerer ikke på samsung galaxy s4 etter siste oppdatering
+39,"June 25, 2013",1,disconnecter  hele tiden.
+40,"June 21, 2013",1,denne appen var meget bra helt til nå. nå spiller radio bare noen sekunder så stopper det. så ikke poenget med å forandre på noe som allerede funket
