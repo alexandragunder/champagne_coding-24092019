@@ -7,7 +7,7 @@ Champagne Coding with DNB on September 24, 2019
 To re-create the environment:
 - Make sure ```conda``` is installed
 - ```conda env create -f environment.yml``` 
--- __NOTE:__ if this doesn't work and you're using Windows, try to use the file called ```environment_mac.yml```
+-- __NOTE:__ if this doesn't work and you're using Windows, you may have to install the Python packages as you go through the code
 - ```conda activate champagne_coding```
 - Start a jupyter notebook (```jupyter notebook```) 
 
